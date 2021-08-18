@@ -1,2 +1,2 @@
 # EGI-Learning
-记录EGI学习历程
+记录EGI学习和使用历程
